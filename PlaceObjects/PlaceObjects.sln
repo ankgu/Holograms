@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaceObjects", "PlaceObjects.csproj", "{523AE01C-766C-D3F0-434C-6C052C72DC10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaceObjects.Editor", "PlaceObjects.Editor.csproj", "{2F01A53C-1A6B-5B4C-93FE-16F8B682D57D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523AE01C-766C-D3F0-434C-6C052C72DC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523AE01C-766C-D3F0-434C-6C052C72DC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523AE01C-766C-D3F0-434C-6C052C72DC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523AE01C-766C-D3F0-434C-6C052C72DC10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F01A53C-1A6B-5B4C-93FE-16F8B682D57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F01A53C-1A6B-5B4C-93FE-16F8B682D57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F01A53C-1A6B-5B4C-93FE-16F8B682D57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F01A53C-1A6B-5B4C-93FE-16F8B682D57D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
